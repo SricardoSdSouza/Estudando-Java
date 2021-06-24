@@ -1,0 +1,85 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+.fimanager:before {
+      display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    display: block;
+}
+
+.flaticon-001-witch:before { content: "\f100"; }
+.flaticon-002-candy-corn:before { content: "\f101"; }
+.flaticon-003-eye:before { content: "\f102"; }
+.flaticon-004-vampire:before { content: "\f103"; }
+.flaticon-005-cauldron:before { content: "\f104"; }
+.flaticon-006-pumpkin:before { content: "\f105"; }
+.flaticon-007-bat:before { content: "\f106"; }
+.flaticon-008-zombie:before { content: "\f107"; }
+.flaticon-009-death:before { content: "\f108"; }
+.flaticon-010-candle:before { content: "\f109"; }
+.flaticon-011-devil:before { content: "\f10a"; }
+.flaticon-012-eyeball:before { content: "\f10b"; }
+.flaticon-013-owl:before { content: "\f10c"; }
+.flaticon-014-monster:before { content: "\f10d"; }
+.flaticon-015-black-cat:before { content: "\f10e"; }
+.flaticon-016-halloween:before { content: "\f10f"; }
+.flaticon-017-zombie:before { content: "\f110"; }
+.flaticon-018-bag:before { content: "\f111"; }
+.flaticon-019-ghost:before { content: "\f112"; }
+.flaticon-020-magic-broom:before { content: "\f113"; }
+.flaticon-021-candle:before { content: "\f114"; }
+.flaticon-022-candy:before { content: "\f115"; }
+.flaticon-023-coffin:before { content: "\f116"; }
+.flaticon-024-spider:before { content: "\f117"; }
+.flaticon-025-caramel-apple:before { content: "\f118"; }
+.flaticon-026-alien:before { content: "\f119"; }
+.flaticon-027-slime:before { content: "\f11a"; }
+.flaticon-028-headband:before { content: "\f11b"; }
+.flaticon-029-ghost:before { content: "\f11c"; }
+.flaticon-030-wizard-hat:before { content: "\f11d"; }
+.flaticon-031-haunted-house:before { content: "\f11e"; }
+.flaticon-032-lollipop:before { content: "\f11f"; }
+.flaticon-033-halloween-party:before { content: "\f120"; }
+.flaticon-034-poison:before { content: "\f121"; }
+.flaticon-035-zombie:before { content: "\f122"; }
+.flaticon-036-crow:before { content: "\f123"; }
+.flaticon-037-axe:before { content: "\f124"; }
+.flaticon-038-voodoo:before { content: "\f125"; }
+.flaticon-039-clown:before { content: "\f126"; }
+.flaticon-040-ectoplasm:before { content: "\f127"; }
+.flaticon-041-dead:before { content: "\f128"; }
+.flaticon-042-mummy:before { content: "\f129"; }
+.flaticon-043-decapitate:before { content: "\f12a"; }
+.flaticon-044-night:before { content: "\f12b"; }
+.flaticon-045-devil:before { content: "\f12c"; }
+.flaticon-046-scarecrow:before { content: "\f12d"; }
+.flaticon-047-fangs:before { content: "\f12e"; }
+.flaticon-048-candle:before { content: "\f12f"; }
+.flaticon-049-toad:before { content: "\f130"; }
+.flaticon-050-werewolf:before { content: "\f131"; }
